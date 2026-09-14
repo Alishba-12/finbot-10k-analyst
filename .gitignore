@@ -1,0 +1,42 @@
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# ChromaDB
+chroma_db_finbot/
+chroma_db_aapl/
+*.sqlite3
+
+# Data files
+*.csv
+*.pkl
+*.joblib
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env

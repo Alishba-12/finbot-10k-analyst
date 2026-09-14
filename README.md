@@ -42,7 +42,6 @@ User Question
 
 ## 🚀 How to Run Locally
 
-```bash
 # Clone the repository
 git clone https://github.com/Alishba-12/finbot-10k-analyst.git
 cd finbot-10k-analyst

@@ -43,7 +43,7 @@ COMPANIES = {
 try:
     identity = st.secrets["SEC_IDENTITY"]
 except Exception:
-    identity = "your_email@example.com"
+    identity = "kalishbakhan456@gmail.com"
 
 set_identity(identity)
 

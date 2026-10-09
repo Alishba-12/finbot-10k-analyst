@@ -103,7 +103,6 @@ End-to-end testing was performed on Apple (AAPL). A larger sweep across tickers 
 
 ## How to Run Locally
 
-```bash
 git clone https://github.com/Alishba-12/finbot-10k-analyst.git
 cd finbot-10k-analyst
 pip install -r requirements.txt
